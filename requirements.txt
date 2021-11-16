@@ -7,7 +7,12 @@ wheel>=0.29
 # data science
 numpy
 pandas
-scikit-learn
+scikit-learnf
+nltk
+math
+matplotlib
+seaborn
+statsmodels
 
 # tests/linter
 black
