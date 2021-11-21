@@ -1,1 +1,1 @@
-web: pip install . -U && charlestoolbox-run
+web: pip install . -U && charles_toolbox-run
